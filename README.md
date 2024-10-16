@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keetzhill
-- 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning Python Programming
-- 💞️ I’m looking to collaborate on applying Data Science to automotive engineering. 
+- 👀 I’m interested in Digit Marketing, Data Science and Business Analytics 
+- 🌱 I’m currently learning Python Programming and SQL
+- 💞️ I’m looking to collaborate on applying Data Science to Business and Marketing Analytics. 
 - 📫 How to reach me ... keetzh@yahoo.com
 
 <!---
